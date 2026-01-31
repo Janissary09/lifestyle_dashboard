@@ -71,10 +71,15 @@ Open a terminal in the project folder and run:
 
 ```bash
 pip install dash pandas plotly
+```
 
 2. Start the application
+```bash
 python app.py
+```
 
 3. Open the dashboard in your browser
 After starting the application, open:
+```bash
 http://127.0.0.1:8050/
+```
