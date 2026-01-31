@@ -42,11 +42,13 @@ All insights are derived through **visual analysis**.
 
 ## 🗂️ Project Structure
 
+```bash
 lifestyle_dashboard/
 ├── app.py # Main Dash application
 ├── health_lifestyle_dataset.csv # Dataset used for visualization
 ├── .gitignore # Git ignore configuration
 └── Backup/ # Local backup files
+```
 
 
 ---
