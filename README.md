@@ -62,21 +62,19 @@ To run this project, the following software and libraries are required:
 
 ---
 
+
 ## ▶️ How to Run the Dashboard
 
 ### 1. Install required Python libraries
 
 Open a terminal in the project folder and run:
 
-bash
+```bash
 pip install dash pandas plotly
 
 
----
 
-Start the application: python app.py
 
-Open the dashboard in your browser
 
-After starting the application, open: http://127.0.0.1:8050/
+
 
