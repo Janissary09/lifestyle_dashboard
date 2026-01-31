@@ -72,9 +72,9 @@ Open a terminal in the project folder and run:
 ```bash
 pip install dash pandas plotly
 
+python app.py
 
-
-
+http://127.0.0.1:8050/
 
 
 
